@@ -7,7 +7,7 @@
 
 <h3>Demo</h3>
 <img src="images/shop.gif" heigh="500" width="600">
-
+<p>Product Selection</p>
 <img src="images/image1.JPG">
-
+<p>Order reception confirmed</p>
 <img src="images/image2.JPG">
