@@ -1,0 +1,120 @@
+body
+{
+	margin: 0;
+	background-color: #ececef;
+	color: #47606c;
+  font-family: 'Arial';
+  font-size: 22px;
+}
+
+a:link    { color: #209781; text-decoration: none; }
+a:visited { color: #209781; }
+a:active  { color: #209781; }
+a:hover   { color: #E9B64A; }
+
+h1
+{
+	font-size: 50px;
+	font-weight: 400;
+	text-align: center;
+	letter-spacing: 3px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+p
+{
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+
+.board
+{
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#c1 {background-image: url("img/img1.png"); background-color: white;}
+#c2 {background-image: url("img/img2.png"); background-color: white;}
+#c3 {background-image: url("img/img3.png"); background-color: white;}
+#c4 {background-image: url("img/img4.png"); background-color: white;}
+#c5 {background-image: url("img/img5.png"); background-color: white;}
+#c6 {background-image: url("img/img6.png"); background-color: white;}
+#c7 {background-image: url("img/img7.png"); background-color: white;}
+#c8 {background-image: url("img/img8.png"); background-color: white;}
+#c9 {background-image: url("img/img9.png"); background-color: white;}
+#c10 {background-image: url("img/img10.png"); background-color: white;}
+#c11 {background-image: url("img/img11.png"); background-color: white;}
+#c12 {background-image: url("img/img12.png"); background-color: white;}
+
+.cardA
+{
+	width: 125px;
+	height: 125px;
+	display: inline-block;
+	margin: 3px;
+	border: 3px solid #47606c;
+	border-radius: 4px;
+	cursor: pointer;
+	filter: brightness(100%);
+	transition: all .3s ease-in-out;
+}
+
+.card
+{
+	width: 125px;
+	height: 125px;
+	display: inline-block;
+	margin: 5px;
+	border: 3px solid #47606c;
+	border-radius: 4px;
+	cursor: pointer;
+	filter: brightness(96%);
+	transition: all .3s ease-in-out;
+}
+
+.card:hover
+{
+	border: 5px solid #209781;
+	filter: brightness(100%);
+}
+
+.order
+{
+	font-size: 14px;
+	margin-bottom:10px;
+	letter-spacing: 2px;
+}
+
+.order-ul{
+	font-size: 12px;
+	letter-spacing: 1px;
+	text-align: left;
+}
+
+.order-ul > li{
+padding: 2px;
+}
+
+.order-list{
+	margin-bottom: 30px;
+}
+
+a.order-button{
+	background-color: #009bba;
+	padding: 10px 25px 10px 25px;
+	color:white;
+	font-size: 16px;
+	text-decoration: none;
+	border-radius: 5px;
+	width: 300px;
+	letter-spacing: 1px;
+}
+
+a.order-button:hover{
+	background-color: #009bbab3;
+
+}
