@@ -6,7 +6,7 @@
 </ul>
 
 <h3>Demo</h3>
-<img src="images/shop.gif" heigh="500" width="600">
+<img src="images/shop.gif" heigh="400" width="500">
 <p>Product Selection</p>
 <img src="images/image1.JPG">
 <p>Order reception confirmed</p>
