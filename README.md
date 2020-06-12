@@ -2,4 +2,4 @@
 <h3>Intro</h3>
 <img src="images/shop.gif" heigh="500" width="600">
 <img src="images/image1.JPG">
-<img src="images/image2.JPG" heigh="820" width="1050">
+<img src="images/image2.JPG">
